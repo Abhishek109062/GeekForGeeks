@@ -1,5 +1,5 @@
-Remove Consecutive Characters 
-/*Basic Accuracy: 55.83% Submissions: 19923 Points: 1
+/*Remove Consecutive Characters 
+Basic Accuracy: 55.83% Submissions: 19923 Points: 1
 Given a string S delete the characters which are appearing more than once consecutively.
 
 Example 1:
