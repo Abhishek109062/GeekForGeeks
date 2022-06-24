@@ -1,9 +1,8 @@
-/*
-Find Pair Given Difference 
+# Find Pair Given Difference 
 Easy Accuracy: 49.01% Submissions: 62050 Points: 2
 Given an array Arr[] of size L and a number N, you need to write a program to find if there exists a pair of elements in the array whose difference is N.
 
-Example 1:
+## Example 1:
 
 Input:
 L = 6, N = 78
@@ -23,9 +22,9 @@ You need not take input or print anything. Your task is to complete the function
 Expected Time Complexity: O(L* Log(L)).
 Expected Auxiliary Space: O(1).
 
-Constraints:
+## Constraints:
 1<=L<=104 
 1<=Arr[i]<=105 
 
 0<=N<=105
-*/
+
