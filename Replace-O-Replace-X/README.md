@@ -1,5 +1,4 @@
-# 
-Replace O's with X's 
+# Replace O's with X's 
 Medium Accuracy: 45.14% Submissions: 4756 Points: 4
 Given a matrix mat of size N x M where every element is either ‘O’ or ‘X’.
 Replace all ‘O’ with ‘X’ that are surrounded by ‘X’.
