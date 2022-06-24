@@ -19,6 +19,6 @@ You only need to complete the function reverseWord() that takes s as parameter a
 Expected Time Complexity: O(|S|).
 Expected Auxiliary Space: O(1).
 
-3##Constraints:
+## Constraints:
 1 <= |s| <= 10000*/
 // { Driver Code Starts
