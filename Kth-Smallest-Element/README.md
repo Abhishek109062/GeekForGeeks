@@ -30,7 +30,7 @@ You don't have to read input or print anything. Your task is to complete the fun
  
 Expected Time Complexity: O(n)
 Expected Auxiliary Space: O(log(n))
-##Constraints:
+## Constraints:
 1 <= N <= 105
 1 <= arr[i] <= 105
 1 <= K <= N
